@@ -2,7 +2,7 @@ baseURL = "https://viduq.github.io/blog/"
 languageCode = "en-us"
 title = "Blogus Iste"
 theme = "cactus"
-publishdir = "docs"
+publishdir = "public"
 
 [params]
 colortheme = "light"
