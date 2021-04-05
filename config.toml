@@ -1,0 +1,32 @@
+baseURL = "https://viduq.github.io/blog/"
+languageCode = "en-us"
+title = "Blogus Iste"
+theme = "cactus"
+publishdir = "docs"
+
+[params]
+colortheme = "light"
+description = "Scripta manent"
+mainSection = "posts"
+tagsOverview = false
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
