@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "vdq blog"
 theme = "cactus"
 publishdir = "public"
+canonifyurls = true
 
 [params]
 colortheme = "light"
