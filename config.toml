@@ -1,32 +1,32 @@
 baseURL = "https://viduq.github.io/blog/"
 languageCode = "en-us"
-title = "Blogus Iste"
+title = "vdq blog"
 theme = "cactus"
 publishdir = "public"
 
 [params]
 colortheme = "light"
-description = "Scripta manent"
+description = "scripta manent"
 mainSection = "posts"
 tagsOverview = false
 
 # Main menu which appears below site header.
 [[menu.main]]
-name = "Home"
+name = "home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "all posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "Tags"
+name = "tags"
 url = "/tags"
 weight = 3
 
 [[menu.main]]
-name = "About"
+name = "about"
 url = "/about"
 weight = 4
