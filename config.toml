@@ -1,6 +1,6 @@
 baseURL = "https://viduq.github.io/blog/"
 languageCode = "en-us"
-title = "vdq blog"
+title = "viduqlog"
 theme = "cactus"
 publishdir = "public"
 canonifyurls = true
